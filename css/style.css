@@ -51,6 +51,8 @@ p {
 .page1carousel {
 	background-image: url(..//img/background.jpg);
 	margin-top: 20px;
+	background-size: cover;
+
 }
 
 .title {
