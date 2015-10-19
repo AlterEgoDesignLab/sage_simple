@@ -4,6 +4,7 @@
 	top: 0;
 	display: inline-block;
 	float: left;
+	background-color: #fff;
 }
 
 ul {
@@ -35,4 +36,25 @@ ul {
 	float: right;
 	margin-right: 50px;
 	display: inline;
+	color: #929292
 }
+
+.navsocial li {
+	display: inline;
+	text-decoration: none;
+}
+
+
+.page1carousel {
+	background-image: url(..//img/background.jpg);
+	margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+
