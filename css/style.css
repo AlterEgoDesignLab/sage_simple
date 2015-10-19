@@ -1,0 +1,33 @@
+
+
+header {
+	background-color: white;
+	position: fixed;
+	display: inline-block;
+	width: 100%;
+	margin: 0 auto;
+	padding: 0;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+.nav li {
+	display: inline-block;
+	position: relative;
+	font-family: 'Titillium Web', sans-serif;
+	text-align: center;
+}
+
+.nav a{
+	display: inline-block;
+}
+
+.navsocial li {
+	display: inline;
+	float: right;
+}
