@@ -10,6 +10,9 @@
 ul {
 	list-style-type: none;
 }
+p {
+	font-family: 'Titillium Web', sans-serif;
+}
 
 .navmenu {
     margin:0;
@@ -50,6 +53,22 @@ ul {
 	margin-top: 20px;
 }
 
+.title {
+	font-family: 'Teko', sans-serif;
+	text-align: center;
+	width: 600px;
+	margin-left: 25%;
+	text-transform: uppercase;
+	font-size: 30pt;
+	font-weight: lighter;
+	color: #fff;
+}
+
+.titlesub {
+	color: #d9d7d7;
+	font-size: 16pt;
+
+}
 
 
 
