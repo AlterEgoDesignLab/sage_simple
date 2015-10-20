@@ -35,18 +35,6 @@ p {
 }
 
 
-.navsocial {
-	float: right;
-	margin-right: 50px;
-	display: inline;
-	color: #929292
-}
-
-.navsocial li {
-	display: inline;
-	text-decoration: none;
-}
-
 
 .page1carousel {
 	background-image: url(..//img/background.jpg);
